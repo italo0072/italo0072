@@ -12,39 +12,15 @@
 - 👨🏽‍💻  I’m currently working on something cool :wink:.
 - 🌱  I’m currently learning Python. 
 - 💬  Ask me about anything, I am happy to help.
-- 📫  How to reach italo.antonio.45@outlook.com .
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- 📫  How to reach italo.antonio.45@outlook.com
+-
+-
+- .
 
 
 ***
 
  <br>
-
-
 
 
 📈 My Github stats <br />
@@ -82,6 +58,6 @@
 </p>
 
 -----
-Credits: [Shwetang550](https://github.com/Shwetang550)
+Credits: [Shwetang550](https://github.com/italo0072)
 
 Last Edited on: 15/01/2021
