@@ -5,7 +5,7 @@
   <a href="https://twitter.com/Shwetang550">Twitter</a>
 </p>
 
-<img align="right" height="150rem" alt="GIF" src="[https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp](https://64.media.tumblr.com/6fa4b1241bd5e114b5958be3cf962e14/e6088426a3bf3012-8d/s500x750/23dc5ca6f32e34424959d2276046d017c45a911b.gif)" />
+<img align="right" height="150rem" alt="GIF" src="https://64.media.tumblr.com/6fa4b1241bd5e114b5958be3cf962e14/e6088426a3bf3012-8d/s500x750/23dc5ca6f32e34424959d2276046d017c45a911b.gif" />
 
 **Talking about Personal Stuffs:**
 
