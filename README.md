@@ -14,9 +14,38 @@
 - 💬  Ask me about anything, I am happy to help.
 - 📫  How to reach italo.antonio.45@outlook.com .
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ***
 
  <br>
+
+
+
 
 📈 My Github stats <br />
 <p align="center">
