@@ -5,7 +5,7 @@
   <a href="https://twitter.com/Shwetang550">Twitter</a>
 </p>
 
-<img align="right" height="245rem" alt="GIF" src="https://i.gifer.com/8Tvf.gif" />
+<img align="right" height="220rem" alt="GIF" src="https://i.gifer.com/8Tvf.gif" />
 
 **Talking about Personal Stuffs:**
 
