@@ -54,7 +54,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
+  <img src="https://i.pinimg.com/originals/13/a9/5f/13a95fd6f40f441c6fc4ef3adced935d.gif" />
 </p>
 
 -----
