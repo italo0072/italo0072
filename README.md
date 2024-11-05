@@ -23,14 +23,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo0072&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-> *Note: "Most Used Languages" shows the code I have on GitHub, not my expertise level.*
+>
 
 ---
-
-### 🔧 Projects and Contributions
-- **Open Source Contributions** - Active involvement in improving and maintaining open-source projects.
-- **Collaborative Projects** - Building collaborative tools and applications with a focus on teamwork and code quality.
-- **Personal Projects** - Crafting unique and functional tools for personal and professional use.
 
 ---
 
@@ -51,7 +46,8 @@
 
 ### 📊 GitHub Highlights
 - **Total Contributions**: [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=italo0072&theme=tokyonight)](https://git.io/streak-stats)
-- **Commits & Activity**: Aiming for consistent and meaningful contributions across various projects.
+-
+-  **Commits & Activity**: Aiming for consistent and meaningful contributions across various projects.
 
 ---
 
