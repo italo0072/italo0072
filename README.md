@@ -42,11 +42,7 @@
 - **Project Progress Bars**: Dynamic progress bars for active projects.
 - **Interactive Graphs**: Visualize contributions and activity in anime-inspired styles.
 
-### 📈 Visitor Count
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/italo0072/count.svg" alt="Visitor count">
-</p>
 
 ### ⚙️ Languages & Tools
 
@@ -65,5 +61,16 @@
 ### 🎉 Fun Add-ons
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  <img src="https://media.giphy.com/media/JIX8t0M2QeWQ2/giphy.gif" alt="Motivational GIF" height="150">
 </p>
+
+> "La vida es como un código: a veces hay errores, pero siempre hay formas de depurarlo." 💻
+
+---
+
+### 📈 Visitor Count
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/italo0072/count.svg" alt="Visitor count">
+</p>
+
