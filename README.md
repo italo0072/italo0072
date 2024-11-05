@@ -45,8 +45,8 @@
 ---
 
 ### 📊 GitHub Highlights
-- **Total Contributions**: [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=italo0072&theme=tokyonight)](https://git.io/streak-stats)
--
+- **Total Contributions**:
+- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=italo0072&theme=tokyonight)](https://git.io/streak-stats)
 -  **Commits & Activity**: Aiming for consistent and meaningful contributions across various projects.
 
 ---
