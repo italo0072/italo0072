@@ -1,57 +1,69 @@
-<h2 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"> I'm <a href="https://github.com/italo0072/">Italo</a></h2>
+<h2 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm <a href="https://github.com/italo0072/">Italo</a>!</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/italo">LinkedIn</a> •
-  <a href="https://www.instagram.com/italo_dev/">Instagram</a> •
-  <a href="https://twitter.com/italo_dev">Twitter</a>
+  <a href="https://www.instagram.com/italo/">Instagram</a> •
+  <a href="https://twitter.com/italo">Twitter</a>
 </p>
 
----
-
-### 👨‍💻 About Me
-- 🔥 Angular developer passionate about creating smooth and interactive web applications.
-- 💻 Experienced in **TypeScript**, **JavaScript**, **HTML**, **CSS**, **SQL**, **NoSQL**, and **REST APIs**.
-- 🚀 Always learning and eager to collaborate on new projects.
-- 📫 Reach out at: `italo.antonio.45@outlook.com`
+<div align="center">
+  <img src="https://i.gifer.com/8Tvf.gif" alt="Anime coder" height="220">
+</div>
 
 ---
 
-### 📈 My GitHub at a Glance
+### 🖥️ About Me
+
+- 🌱 Diving deeper into Angular, TypeScript, SQL, and NoSQL.
+- 🎯 Focused on building anime-inspired interactive web projects.
+- 📫 Reach me at [italo.antonio.45@outlook.com](mailto:italo.antonio.45@outlook.com).
+
+---
+
+### 📊 My GitHub at a Glance
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=italo0072&theme=tokyonight&show_icons=true" alt="Italo's GitHub Stats" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo0072&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=italo0072&theme=tokyonight&show_icons=true&hide_border=true" alt="Italo's GitHub Stats" height="150">
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=italo0072&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150">
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=italo0072&theme=tokyo-night&hide_border=true" alt="Activity Graph">
 </p>
 
->
+### 🚀 Anime-Inspired Highlights
 
----
-
----
-
-### 🛠️ Languages and Tools
-<p>
-  <img height="35rem" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" title="Angular" />
-  <img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" title="TypeScript" />
-  <img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" title="JavaScript" />
-  <img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" title="HTML5" />
-  <img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" title="CSS3" />
-  <img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" title="SQL" />
-  <img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" title="MongoDB" />
-  <img height="35rem" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React" title="React" />
-  <img height="35rem" src="https://raw.githubusercontent.com/github/explore/06e8c1f54c318e3f1c5fd6b3bb7ae2be4ccbab7b/topics/api/api.png" alt="REST API" title="REST API" />
-</p>
-
----
-
-### 📊 GitHub Highlights
-- **Total Contributions**:
-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=italo0072&theme=tokyonight)](https://git.io/streak-stats)
--  **Commits & Activity**: Aiming for consistent and meaningful contributions across various projects.
-
----
-
-### 📊 Visitor Count
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=italo0072&style=flat-square&color=blue" alt="Visitor Count" />
+  <img src="https://github-profile-trophy.vercel.app/?username=italo0072&theme=onestar&no-frame=true&margin-w=15&margin-h=15" alt="Trophies">
+</p>
+
+### 🎮 Dynamic Features
+
+- **Daily Updated Stats**: Automatically refreshes stats with anime styling.
+- **Project Progress Bars**: Dynamic progress bars for active projects.
+- **Interactive Graphs**: Visualize contributions and activity in anime-inspired styles.
+
+### 📈 Visitor Count
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/italo0072/count.svg" alt="Visitor count">
+</p>
+
+### ⚙️ Languages & Tools
+
+<p align="center">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/angular-2038872-1720098.png" alt="Angular" height="40">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-3521775-2945272.png" alt="TypeScript" height="40">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="JavaScript" height="40">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/sql-2120253-1780356.png" alt="SQL" height="40">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/nosql-2207026-1859735.png" alt="NoSQL" height="40">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/css3-8-1175200.png" alt="CSS3" height="40">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/html5-10-1175193.png" alt="HTML5" height="40">
+</p>
+
+---
+
+### 🎉 Fun Add-ons
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
