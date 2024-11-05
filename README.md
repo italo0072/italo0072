@@ -47,13 +47,12 @@
 ### ⚙️ Languages & Tools
 
 <p align="center">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/angular-2038872-1720098.png" alt="Angular" height="40">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-3521775-2945272.png" alt="TypeScript" height="40">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="JavaScript" height="40">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/sql-2120253-1780356.png" alt="SQL" height="40">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/nosql-2207026-1859735.png" alt="NoSQL" height="40">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/css3-8-1175200.png" alt="CSS3" height="40">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/html5-10-1175193.png" alt="HTML5" height="40">
+  <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="Angular" height="40">
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/SQL_Structure_Logo.svg" alt="SQL" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/CSS3_logo_and_wordmark.svg" alt="CSS3" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" height="40">
 </p>
 
 ---
@@ -61,7 +60,7 @@
 ### 🎉 Fun Add-ons
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX8t0M2QeWQ2/giphy.gif" alt="Motivational GIF" height="150">
+  <img src="https://i.pinimg.com/originals/eb/86/8d/eb868d1f16f2caf97b59494cd222b311.gif" alt="Motivational ssGIF" height="300">
 </p>
 
 > "La vida es como un código: a veces hay errores, pero siempre hay formas de depurarlo." 💻
