@@ -6,35 +6,17 @@
   <a href="https://twitter.com/italo_dev">Twitter</a>
 </p>
 
-<img align="right" height="220rem" alt="Coding GIF" src="https://i.gifer.com/8Tvf.gif" />
-
 ---
 
 ### 👨‍💻 About Me
 - 🔥 Angular developer passionate about creating smooth and interactive web applications.
 - 💻 Experienced in **TypeScript**, **JavaScript**, **HTML**, **CSS**, **SQL**, **NoSQL**, and **REST APIs**.
-- 🚀 Open to collaboration and learning new technologies.
+- 🚀 Always learning and eager to collaborate on new projects.
 - 📫 Reach out at: `italo.antonio.45@outlook.com`
 
 ---
 
-### 📌 Featured Projects
-- **[Project 1](https://github.com/italo0072/project1)** - A responsive and user-friendly app for real-time data.
-- **[Project 2](https://github.com/italo0072/project2)** - An e-commerce platform with seamless integration and advanced search.
-- **[Project 3](https://github.com/italo0072/project3)** - Data visualization tool for insightful analysis.
-
----
-
-### 📝 Latest Blog Posts
-- **[Understanding Angular Directives](https://medium.com/@italo/understanding-angular-directives-12345)** - An in-depth guide to Angular Directives.
-- **[REST API Design Principles](https://dev.to/italo/rest-api-design-principles)** - Tips for designing efficient and scalable APIs.
-- **[JavaScript ES6+ Features](https://hashnode.com/@italo/js-es6-features)** - Essential features from ES6 to boost productivity.
-
-> *Check out more on [My Blog](https://your-blog-link.com)*
-
----
-
-### 📊 My GitHub at a Glance
+### 📈 My GitHub at a Glance
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=italo0072&theme=tokyonight&show_icons=true" alt="Italo's GitHub Stats" />
   <br /><br />
@@ -42,6 +24,13 @@
 </p>
 
 > *Note: "Most Used Languages" shows the code I have on GitHub, not my expertise level.*
+
+---
+
+### 🔧 Projects and Contributions
+- **Open Source Contributions** - Active involvement in improving and maintaining open-source projects.
+- **Collaborative Projects** - Building collaborative tools and applications with a focus on teamwork and code quality.
+- **Personal Projects** - Crafting unique and functional tools for personal and professional use.
 
 ---
 
@@ -60,11 +49,9 @@
 
 ---
 
-### 🔗 Connect with Me!
-- [Portfolio](https://your-portfolio-link.com)
-- [LinkedIn](https://www.linkedin.com/in/italo)
-- [Twitter](https://twitter.com/italo_dev)
-- [Instagram](https://www.instagram.com/italo_dev/)
+### 📊 GitHub Highlights
+- **Total Contributions**: [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=italo0072&theme=tokyonight)](https://git.io/streak-stats)
+- **Commits & Activity**: Aiming for consistent and meaningful contributions across various projects.
 
 ---
 
