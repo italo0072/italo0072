@@ -1,3 +1,15 @@
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│  ██████╗ ██╗   ██╗██╗████████╗ █████╗ ██╗                        │
+│  ██╔══██╗██║   ██║██║╚══██╔══╝██╔══██╗██║                        │
+│  ██████╔╝██║   ██║██║   ██║   ███████║██║                        │
+│  ██╔═══╝ ██║   ██║██║   ██║   ██╔══██║██║                        │
+│  ██║     ╚██████╔╝██║   ██║   ██║  ██║███████╗                   │
+│  ╚═╝      ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝                   │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
 <h2 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm <a href="https://github.com/italo0072/">Italo</a>!</h2>
 
 <p align="center">
@@ -14,9 +26,16 @@
 
 ### 🖥️ About Me
 
-- 🌱 Diving deeper into Angular, TypeScript, SQL, and NoSQL.
-- 🎯 Focused on building anime-inspired interactive web projects.
-- 📫 Reach me at [italo.antonio.45@outlook.com](mailto:italo.antonio.45@outlook.com).
+```
+┌──────────────────────────────────────────────┐
+│  🌱 Diving deeper into Angular, TypeScript,  │
+│     SQL, and NoSQL.                          │
+│  🎯 Focused on building anime-inspired      │
+│     interactive web projects.               │
+│  📫 Reach me at:                            │
+│     italo.antonio.45@outlook.com            │
+└──────────────────────────────────────────────┘
+```
 
 ---
 
@@ -38,11 +57,14 @@
 
 ### 🎮 Dynamic Features
 
-- **Daily Updated Stats**: Automatically refreshes stats with anime styling.
-- **Project Progress Bars**: Dynamic progress bars for active projects.
-- **Interactive Graphs**: Visualize contributions and activity in anime-inspired styles.
-
-
+```
+┌──────────────────────────────────────────────────┐
+│  ✅ Daily Updated Stats                          │
+│  ✅ Project Progress Bars                        │
+│  ✅ Interactive Graphs                           │
+│  ✅ Anime-Styled Contributions                  │
+└──────────────────────────────────────────────────┘
+```
 
 ### ⚙️ Languages & Tools
 
@@ -60,10 +82,17 @@
 ### 🎉 Fun Add-ons
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/eb/86/8d/eb868d1f16f2caf97b59494cd222b311.gif" alt="Motivational ssGIF" height="300">
+  <img src="https://i.pinimg.com/originals/eb/86/8d/eb868d1f16f2caf97b59494cd222b311.gif" alt="Motivational GIF" height="300">
 </p>
 
-> "La vida es como un código: a veces hay errores, pero siempre hay formas de depurarlo." 💻
+```
+┌──────────────────────────────────────────┐
+│  "La vida es como un código:             │
+│   a veces hay errores,                   │
+│   pero siempre hay formas de depurarlo." │
+│   💻                                      │
+└──────────────────────────────────────────┘
+```
 
 ---
 
@@ -72,4 +101,3 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/italo0072/count.svg" alt="Visitor count">
 </p>
-
