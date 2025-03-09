@@ -66,9 +66,11 @@ C:\> LOADING DEVELOPMENT TOOLS...
   <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="Angular" height="40">
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/SQL_Structure_Logo.svg" alt="SQL" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/CSS3_logo_and_wordmark.svg" alt="CSS3" height="40">
+  <img src="https://silk.us/wp-content/uploads/2021/03/sql-server-logo-white.png" alt="SQL" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" height="40">
+  <img src="https://www.omniwaresoft.com.tw/wp-content/uploads/2023/02/MongoDB-logo_darkreen.png" alt="mongo_db" height="40">
+  <img src="https://1000marcas.net/wp-content/uploads/2021/06/Git-Logo.png" alt="git" height="40">
 </p>
 
 ```
